@@ -12,5 +12,5 @@ NAMA : INGGRID AMALIA SABRINA
 
 <h3>Manajemen File</h3>
 
-<img src="Screenshot/ManajemenFile/Screenshot_2021-10-24-22-28-46-20.png" width="300" height="500"> <img src="Screenshot/ManajemenFile/Screenshot_2021-10-24-22-28-49-86.png" width="300" height="500"> <img src="Screenshot/ManajemenFile/Screenshot_2021-10-24-22-28-53-41.png" width="300" height="500"> <img src="ScreenshotManajemenFile/Screenshot_2021-10-24-22-28-58-29.png" width="300" height="500"> <img src="Screenshot/ManajemenFile/Screenshot_2021-10-24-22-29-00-56.png" width="300" height="500"><br>
+<img src="Screenshot/ManajemenFile/Screenshot_2021-10-24-22-28-46-20.png" width="300" height="500"> <img src="Screenshot/ManajemenFile/Screenshot_2021-10-24-22-28-49-86.png" width="300" height="500"> <img src="Screenshot/ManajemenFile/Screenshot_2021-10-24-22-28-53-41.png" width="300" height="500"> <img src="Screenshot/ManajemenFile/Screenshot_2021-10-24-22-28-58-29.png" width="300" height="500"> <img src="Screenshot/ManajemenFile/Screenshot_2021-10-24-22-29-00-56.png" width="300" height="500"><br>
 
